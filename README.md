@@ -44,6 +44,6 @@ La seconda contiene il form per mezzo del quale i proprietari dell'enoteca posso
 + [Bootstrap](http://getbootstrap.com/) - Front-end framework
 + [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 + [Handlebarsjs](http://handlebarsjs.com/) - Image placeholder service
-+ [Unsplash](http://jsonplaceholder.typicode.com/) - Semantic web template system
++ [Unsplash](https://unsplash.it/) - Semantic web template system
 + [Lipsum](http://www.lipsum.com/) - Lorem ipsum generator
-+ [Slipsum](http://www.lipsum.com/) - Samuel L. Ipsum generator
++ [Slipsum](http://slipsum.com/) - Samuel L. Ipsum generator
